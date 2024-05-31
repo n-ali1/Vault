@@ -1,10 +1,15 @@
-import RegisterForm from './components/RegisterForm'
+
+import UserForm from './components/UserForm'
 
 function App() {
 
+
+  
+
+
   return (
     <>
-    <RegisterForm />
+    <UserForm />
     </>
   )
 }
